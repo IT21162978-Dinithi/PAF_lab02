@@ -1,0 +1,24 @@
+
+50% final
+mid excluding R
+R practical
+mini hackoton
+summary report
+D:\1 SLIIT CAMPUS\3rd Year Semester 2\PAF\Lab\lab01
+
+dwbi
+practical 1-  ssis,ssas
+practical 2 -  powerbi
+
+paf
+mid 
+prscticsl exam - hackerrank
+
+centralized vc - client server
+distributed vc - peer to peer
+git - manage local repository
+github - manage remote repositary
+
+
+
+pull request - sending the request to merging it to main branch
